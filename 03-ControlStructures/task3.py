@@ -4,7 +4,7 @@
 # tasks is at least 50%
 #
 total_tasks = 20
-tasks_ok = >=10
+tasks_ok = 10
 test_passed = False
 
 if tasks_ok >= total_tasks:

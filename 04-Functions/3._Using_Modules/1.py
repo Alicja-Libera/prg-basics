@@ -17,4 +17,5 @@ print('a squere root of 25 is', square_root)
 
 import math
 
-natural_log = 
+natural_log = math.log(5)
+print('A natural logarithm of 5 is', natural_log )
