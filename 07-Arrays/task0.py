@@ -22,6 +22,17 @@ for i in range (len(arr)):
 arr [i] = arr [i] + 1 
 
 #CONCATENATION is a method of combining the lists 
+# ###
+# Prints some array elements
+#
+arr = [2, 3, 7, 5, 4]
+
+print(arr)
+print('Number of elements', len(arr))
+print('First value', arr[...])
+print('Second value', arr[...])
+...
+...
 
 
 
